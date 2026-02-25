@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+@import "tailwindcss";
+
+
+@theme{
+
+  /* FONTS */
+--font-Inter :  "Inter", sans-serif;
+--font-Garamond :"EB Garamond", serif;
+
+
+  /* COLORS */
+--color-WarmBlack : #3A3845;
+--color-BeigePeach : #F7CCAC;
+--color-LightBrown :#C69B7B;
+--color-Darkbrown  :#826F66;
+--color-darkblue : #3A3845;
+--color-bebeblue : #595667;
+--color-Neutral600 : #807F86;
+--color-Neutral500 : #A6A6A8;
+--color-Neutral400 : #CAC9CF;
+--color-neturalwhite : #E5E5E5;
+--color-Neutral200 : #F7F6F5;
+
+}
