@@ -1,7 +1,11 @@
+import FirstSection from "../components/ShopFirstSection/FirstSection";
+import ShopHeroSection from "../components/ShopHeroSection/HeroSection";
 export default function ShopPage() {
   return (
  <> 
-  <h1>shop page</h1>
+    <FirstSection/>
+    <ShopHeroSection/>
+    
  </>
   )
 }
